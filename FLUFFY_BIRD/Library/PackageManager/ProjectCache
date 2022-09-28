@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637998634529759120
-    m_Hash: 2390206771
+      ticks: 637997683378151498
+    m_Hash: 1703271558
   m_LockFileStatus:
     m_FilePath: D:/GitHub/FLUFFY_BIRD/FLUFFY_BIRD/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637998634529769087
-    m_Hash: 350349540
+      ticks: 637997683739545049
+    m_Hash: 2105551410
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -132,6 +132,7 @@ m_ResolvedPackages:
     - 7.0.5
     - 7.0.6
     - 7.0.7
+    - 7.0.8
     - 8.0.0-pre.3
     - 8.0.0-pre.4
     - 8.0.0
@@ -360,6 +361,7 @@ m_ResolvedPackages:
     - 6.0.3
     - 6.0.4
     - 6.0.5
+    - 6.0.6
     - 7.0.0-pre.3
     - 7.0.0-pre.4
     - 7.0.0
@@ -3903,6 +3905,7 @@ m_ResolvedPackages:
     - 4.0.4
     - 4.1.0
     - 4.2.0
+    - 4.2.1
     - 5.0.0-pre.1
     - 5.0.0-pre.2
     - 5.0.0
@@ -3914,12 +3917,14 @@ m_ResolvedPackages:
     - 6.0.2
     - 6.0.3
     - 6.0.4
+    - 6.0.5
     - 7.0.0-pre.3
     - 7.0.0-pre.4
     - 7.0.0
     - 7.0.1
     - 8.0.0-pre.1
     - 8.0.0-pre.2
+    - 8.0.0
     compatible:
     - 5.0.0
     verified: 5.0.0
